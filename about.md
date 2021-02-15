@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
+title: 소개
 permalink: /about/
 ---
 
-dev@jbon.ly
+- github: [the-jb](https://github.com/the-jb)
+- email: [dev@jbon.ly](mailto:dev@jbon.ly)
